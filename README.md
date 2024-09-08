@@ -18,3 +18,21 @@ Proyek ini terdiri dari 3 bagian utama dengan tugas dan tantangan terkait Flexbo
 4. Atur gambar dengan jarak yang sama di antara setiap gambar.
 5. Buat posisi gambar responsif, agar tampilannya menyesuaikan ukuran layar.
 6. Posisikan gambar di tengah-tengah container secara horizontal dan vertikal.
+
+### Nomer 2
+**Instruksi:**
+1. Beri warna latar belakang pada container pembungkus gambar yang berbeda dari sebelumnya.
+2. Beri warna latar belakang yang berbeda pada setiap item gambar, dan pastikan warnanya berbeda dari sebelumnya.
+3. Atur gambar agar berukuran sama, tidak terlalu besar dan tidak terlalu kecil.
+4. Buat posisi gambar responsif, agar tampilannya menyesuaikan ukuran layar.
+5. Posisikan gambar di kanan dalam container tanpa ada jarak di antaranya (tanpa spasi).
+6. Gunakan reverse direction untuk membalik urutan gambar dalam tata letak
+
+### Nomer 3
+**Instruksi:**
+1. Buat daftar gambar dengan tata letak inline-flex.
+2. Beri warna latar belakang pada container pembungkus gambar yang berbeda dari instruksi sebelumnya.
+3. Beri warna latar belakang yang berbeda pada setiap item gambar, dan pastikan warnanya berbeda dari instruksi sebelumnya.
+4. Atur ukuran gambar agar seragam, tidak terlalu besar dan tidak terlalu kecil.
+5. Tata gambar dengan posisi kolom menggunakan flex-direction: column.
+6. Gunakan reverse direction untuk membalik urutan gambar dalam tata letak kolom.
